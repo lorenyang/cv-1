@@ -146,7 +146,7 @@ var step = function step() {
       n += 1;
       step();
     }
-  }, 50);
+  }, 40);
 };
 
 step(); // 1=>2
